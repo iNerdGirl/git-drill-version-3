@@ -1,0 +1,19 @@
+main {
+  background-color: whitesmoke
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace
+}
+
+li {
+  text-decoration: none
+}
+
+ul {
+  text-align: center
+}
+
+nav {
+  font-size: 12em
+}
